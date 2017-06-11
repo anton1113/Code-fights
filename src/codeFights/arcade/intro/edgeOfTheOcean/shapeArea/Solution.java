@@ -1,4 +1,4 @@
-package arcade.intro.edgeOfTheOcean.shapeArea;
+package codeFights.arcade.intro.edgeOfTheOcean.shapeArea;
 
 public class Solution {
     int shapeArea(int n) {

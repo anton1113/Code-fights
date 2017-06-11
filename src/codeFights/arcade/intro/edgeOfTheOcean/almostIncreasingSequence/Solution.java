@@ -1,4 +1,4 @@
-package arcade.intro.edgeOfTheOcean.almostIncreasingSequence;
+package codeFights.arcade.intro.edgeOfTheOcean.almostIncreasingSequence;
 
 public class Solution {
     public static void main(String[] args) {

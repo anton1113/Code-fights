@@ -1,4 +1,4 @@
-package arcade.intro.edgeOfTheOcean.matrixElementSum;
+package codeFights.arcade.intro.edgeOfTheOcean.matrixElementSum;
 
 public class Solution {
     public static void main(String[] args) {

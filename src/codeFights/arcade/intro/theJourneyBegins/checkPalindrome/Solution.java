@@ -1,4 +1,4 @@
-package arcade.intro.theJourneyBegins.checkPalindrome;
+package codeFights.arcade.intro.theJourneyBegins.checkPalindrome;
 
 public class Solution {
     boolean checkPalindrome(String inputString) {

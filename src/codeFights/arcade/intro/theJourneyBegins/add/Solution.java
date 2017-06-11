@@ -1,4 +1,4 @@
-package arcade.intro.theJourneyBegins.add;
+package codeFights.arcade.intro.theJourneyBegins.add;
 
 public class Solution {
     int add(int param1, int param2) {

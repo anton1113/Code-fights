@@ -1,4 +1,4 @@
-package arcade.intro.edgeOfTheOcean.adjacentElementsProduct;
+package codeFights.arcade.intro.edgeOfTheOcean.adjacentElementsProduct;
 
 public class Solution {
     int adjacentElementsProduct(int[] inputArray) {

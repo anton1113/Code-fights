@@ -1,4 +1,4 @@
-package arcade.intro.theJourneyBegins.centuryFromYear;
+package codeFights.arcade.intro.theJourneyBegins.centuryFromYear;
 
 public class Solution {
     int centuryFromYear(int year) {
