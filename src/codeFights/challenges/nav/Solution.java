@@ -1,4 +1,4 @@
-package reverse.nav;
+package codeFights.challenges.nav;
 
 /**
  * Challenge info:
